@@ -248,7 +248,12 @@ This report may be revised and updated continuously based on new evidence, exper
 
 ## 11. Appendix / 付録（任意）
 
-
+ログ:https://choiizuka.com/aibbs/chatlog/20261108-204351-8b8311a3.html
+関連ログ:https://choiizuka.com/aibbs/chatlog/20261108-143841-3631bb56.html
+関連ログ:https://choiizuka.com/aibbs/chatlog/20261108-113320-c25ed20b.html
+GitHub:https://github.com/choiizuka/Truth-Philosophy-A-Reboot-of-Primitive-Philosophy
+PLAYGROUND:https://choiizuka.com/playgrounds/earth-debug-22-truth-philosophy-boot.php
+Web:https://choiizuka.com/truth-philosophy/
 
 ### Mission Status
 
